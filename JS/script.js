@@ -48,7 +48,7 @@ exchangeIcon.addEventListener("click", () => {
   getExchangeRate();
 })
 
-
+//Anas in the best friend in the uni
 //Creating Function, Sending Request to API, Retrieving Data From API
 function getExchangeRate() {
   const amount = document.querySelector("form input");
